@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "GA_Implementation"
+name = "geometric_algebra_implementation"
 version = "0.1.0"
