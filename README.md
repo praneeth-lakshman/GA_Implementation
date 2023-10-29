@@ -1,0 +1,1 @@
+This package tries to do homemade implementation of Geometric Algebra, but also use complex numbers and quaternions as subalgebras. I picked Rust because I want a low-level language but no garbage collectors - thus Rust! This will be updated in the future to record the documentation for the package. 
